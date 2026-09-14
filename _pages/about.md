@@ -48,32 +48,14 @@ I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junx
 
 ## Publications
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
-{% endif %}
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) - First author
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv) - First author
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (2024, EMNLP) - First author
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024, ICML) - Co-author
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023, NeurIPS) - Co-author
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023, NeurIPS) - Co-author
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+For more details, please visit my [publications page](/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Contact
 
