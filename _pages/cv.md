@@ -30,6 +30,13 @@ Research Interests
 * Hallucination in Vision-Language Models (VLM)
 * LLM truthfulness and Interpretability
 
+Skills
+======
+* **Programming Languages**: Python, C++, Java
+* **Machine Learning Frameworks**: PyTorch, TensorFlow, Hugging Face
+* **Tools & Technologies**: Git, Docker, Linux, LaTeX
+* **Languages**: Mandarin (Native), English (Fluent)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
