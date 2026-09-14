@@ -39,6 +39,13 @@ I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junx
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
+## Skills
+
+- **Programming Languages**: Python, C++, Java
+- **Machine Learning Frameworks**: PyTorch, TensorFlow, Hugging Face
+- **Tools & Technologies**: Git, Docker, Linux, LaTeX
+- **Languages**: Mandarin (Native), English (Fluent)
+
 ## Contact
 
 - Email: jliugi@connect.ust.hk
