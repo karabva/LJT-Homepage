@@ -17,7 +17,6 @@ I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junx
 
 - **Ph.D. in Computer Science** (2024-Present)
   - Hong Kong University of Science and Technology
-  - HKUST NLP Group
 
 - **B.Eng.** (2020-2024)
   - Shanghai Jiao Tong University
@@ -39,17 +38,10 @@ I am a first-year PhD candidate at HKUST NLP Group, supervised by Professor Junx
 
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
-## Skills
-
-- **Programming Languages**: Python, C++, Java
-- **Machine Learning Frameworks**: PyTorch, TensorFlow, Hugging Face
-- **Tools & Technologies**: Git, Docker, Linux, LaTeX
-- **Languages**: Mandarin (Native), English (Fluent)
-
 ## Publications
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) - First author
-- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv) - First author
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025) - First author
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025) - First author
 - **On the Universal Truthfulness Hyperplane Inside LLMs** (2024, EMNLP) - First author
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024, ICML) - Co-author
 - **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023, NeurIPS) - Co-author
