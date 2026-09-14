@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage"
 url                      : https://karabva.github.io
-baseurl                  : "/academicpages.github.io"
-repository               : "karabva/academicpages.github.io"
+baseurl                  : "/LJT-Homepage"
+repository               : "karabva/LJT-Homepage"
 
 # Site Author
 author:
